@@ -1,3 +1,25 @@
+  15  touch text.txt
+   16  ls
+   17  nano text.txt
+   18  cat text.txt
+   19  git status
+   20  git init
+   21  ls -la
+   22  ls
+   23  git status
+   24  git ad
+   25  git add text.txt
+   26  git status
+   27  git commit
+   28  ls
+   29  cd Prog
+   30  cd git
+   31  git status
+   32  git commit -m "history bash text"
+   33  git status
+   34  git log
+   35  git branch
+   36  history
     1  git --version
     2  ls
     3  mkdir Prog
@@ -12,3 +34,4 @@
    12  git config --global user.email "nazar17ho@gmail.com"
    13  git config --list
    14  history
+
