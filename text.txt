@@ -34,4 +34,4 @@
    12  git config --global user.email "nazar17ho@gmail.com"
    13  git config --list
    14  history
-
+Homework Done \/
